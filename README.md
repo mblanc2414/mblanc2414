@@ -1,5 +1,5 @@
 
-<div> <strong>Hi I'm Marcus 👋</strong> </div>
+<div align: center >  <strong>Hi I'm Marcus 👋</strong> </div>
 
 
 <!--**mblanc2414/mblanc2414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
