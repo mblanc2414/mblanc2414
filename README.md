@@ -1,5 +1,5 @@
 
-<div> <strong>Hi I'm Marcus Blanc👋</strong> </div>
+<div> <strong>Hi I'm Marcus Blanc<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"><img src="https://komarev.com/ghpvc/?username=daydin14&style=flat-square&color=blue" alt="GitHub-Profile-Views" align="right"/></strong> </div>
 
 
 <!--**mblanc2414/mblanc2414** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
